@@ -1,0 +1,11 @@
+# Requisitos principales
+lightkurve>=2.5
+astropy>=7.0
+numpy>=1.25
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+streamlit>=1.36
+joblib>=1.3
+requests>=2.32
+tqdm>=4.66

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+.idea/
+.vscode/
+model/*.joblib
+data/*.fits
+data/cache/
+data/downloads/
+*.ipynb_checkpoints
